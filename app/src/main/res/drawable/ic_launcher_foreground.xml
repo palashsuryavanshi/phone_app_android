@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Phone handset icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,30 L48.5,34.5 L62,48 L48.5,61.5 L44,66 L42,64 L38.5,50 L35,54 L44,45 L47.5,41.5 L52,46 L47.5,50.5 L44,54 L42.5,52.5 L50.5,44.5 L55,40.5 L62,47.5 L55,54.5 L50.5,49.5 L54,46 L51,49 Z" />
+    <!-- Circle background for handset -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0"
+        android:strokeWidth="2"
+        android:strokeColor="#FFFFFF" />
+</vector>

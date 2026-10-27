@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- High contrast text settings -->
+    <dimen name="text_elevation">0dp</dimen>
+</resources>

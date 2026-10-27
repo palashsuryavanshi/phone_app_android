@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Theme options -->
+    <string-array name="theme_options">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System default</item>
+    </string-array>
+
+    <!-- Accent color options -->
+    <string-array name="accent_color_names">
+        <item>Rose</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Teal</item>
+        <item>Blue</item>
+        <item>Purple</item>
+        <item>Pink</item>
+    </string-array>
+
+    <!-- Layout density options -->
+    <string-array name="density_options">
+        <item>Compact</item>
+        <item>Comfortable</item>
+        <item>Spacious</item>
+    </string-array>
+
+    <!-- Dialpad style options -->
+    <string-array name="dialpad_style_options">
+        <item>Standard</item>
+        <item>Rounded</item>
+        <item>Modern</item>
+    </string-array>
+
+    <!-- Animation intensity options -->
+    <string-array name="animation_intensity_options">
+        <item>Minimal</item>
+        <item>Balanced</item>
+        <item>Expressive</item>
+    </string-array>
+</resources>
